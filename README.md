@@ -41,5 +41,5 @@ JSON.Stringify => manda como uma string para que o Back-end entenda para convert
 
 
 AO RODAR O PROJETO DEVE-SE PRIMEIRO EFETUAR OS COMANDOS:
+npm run server
 npm start
-npm run dev
